@@ -1,4 +1,4 @@
-package dynamic;
+package dynamic.bag;
 
 import java.util.*;
 
