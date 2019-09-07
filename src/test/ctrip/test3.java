@@ -1,10 +1,6 @@
-package real.ctrip;
+package test.ctrip;
 
-import java.io.*;
 import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
 
 public class test3 {
 
