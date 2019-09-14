@@ -8,6 +8,13 @@ public class CoinChange {
         int amount=11;
         System.out.println(coinChange(coins,amount));
     }
+
+    /**
+     * 从1块需要几个硬币，2块需要几个硬币，自下向上创建一个数组
+     * @param coins
+     * @param amount
+     * @return
+     */
     public static int coinChange(int[] coins, int amount) {
         int[] number=new int[amount+1];
         Arrays.fill(number,amount+1);
