@@ -1,4 +1,4 @@
-//package test.bytedance;
+//package test1.bytedance;
 //
 //import java.util.Scanner;
 //
@@ -7,7 +7,7 @@
 // * @version 1.0
 // * @date 2019/9/8 18:59
 // */
-//public class test2 {
+//public class LFUCache {
 //    public static void main(String[] args) {
 //        Scanner sc=new Scanner(System.in);
 //        int t1=sc.nextInt();
